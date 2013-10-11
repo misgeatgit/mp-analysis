@@ -1,0 +1,1 @@
+and(or(and(or($MV10_bin5 $ACC7-14_bin4) $MV50_bin4 !$RATIO7_bin2) $RATIO28_bin5 $ACC14-28_bin1) or($MA20_bin4 $MV10_bin5 !$ACC7-14_bin4) or(!$MV10_bin5 !$MV50_bin5) !$RATIO14_bin2)

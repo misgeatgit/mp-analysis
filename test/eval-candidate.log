@@ -1,0 +1,901 @@
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:275] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_1to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f214b1647e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f214b158400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f214b1676e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f214aa745f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xJ! +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®	J! +0xed) [0x7f2149dd976d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:336] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_1to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f1b6ec087e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f1b6ebfc400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f1b6ec0b6e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f1b6e5185f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (¯H¡m +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (¯H¡m +0xed) [0x7f1b6d87d76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:398] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_1to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f999fc767e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f999fc6a400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f999fc796e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f999f5865f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x'»ûô +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®)»ûô +0xed) [0x7f999e8eb76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:466] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_2to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7ff67eb097e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7ff67eafd400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7ff67eb0c6e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7ff67e4195f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (¯X±}ˆ +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (¯X±}ˆ +0xed) [0x7ff67d77e76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:528] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_2to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f55ccaad7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f55ccaa1400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f55ccab06e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f55cc3bd5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xó´ÀU +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®ô´ÀU +0xed) [0x7f55cb72276d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:592] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_2to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7faa8788e7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7faa87882400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7faa878916e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7faa8719e5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xßâÜ™ +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®©âÜ™ +0xed) [0x7faa8650376d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:655] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_3to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f26951097e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f26950fd400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f269510c6e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f2694a195f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xWî& +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®Yî& +0xed) [0x7f2693d7e76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:711] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_3to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f54b63ee7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f54b63e2400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f54b63f16e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f54b5cfe5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xß?µT +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®©?µT +0xed) [0x7f54b506376d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:767] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_3to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f279d7327e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f279d726400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f279d7356e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f279d0425f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (¯Ësú' +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (¯Ësú' +0xed) [0x7f279c3a776d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:837] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_4to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f6a1986a7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f6a1985e400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f6a1986d6e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f6a1917a5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (¯háj +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (¯háj +0xed) [0x7f6a184df76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:898] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_4to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f320f35b7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f320f34f400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f320f35e6e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f320ec6b5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xw62 +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®y62 +0xed) [0x7f320dfd076d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:31:957] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_4to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7faecab9b7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7faecab8f400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7faecab9e6e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7faeca4ab5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (¯x∫…Æ +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (¯x∫…Æ +0xed) [0x7faec981076d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:019] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_5to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f327bfb67e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f327bfaa400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f327bfb96e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f327b8c65f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x'¸z2 +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®)¸z2 +0xed) [0x7f327ac2b76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:082] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_5to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f761f5347e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f761f528400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f761f5376e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f761ee445f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xTv +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (ÿ	Tv +0xed) [0x7f761e1a976d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:143] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_5to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f0fdb2007e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f0fdb1f4400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f0fdb2036e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f0fdab105f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x« ⁄ +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (ò… ⁄ +0xed) [0x7f0fd9e7576d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:211] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_6to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f455e1a37e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f455e197400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f455e1a66e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f455dab35f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x˜]E +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®˘]E +0xed) [0x7f455ce1876d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:274] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_6to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fdc9f0167e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7fdc9f00a400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7fdc9f0196e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7fdc9e9265f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x'û‹ +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®)û‹ +0xed) [0x7fdc9dc8b76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:334] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_6to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9c9cf5e7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f9c9cf52400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f9c9cf616e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f9c9c86e5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xßˆõú +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (ò©ˆõú +0xed) [0x7f9c9bbd376d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:399] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_7to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f7d7a6d47e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f7d7a6c8400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f7d7a6d76e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f7d79fe45f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xny} +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (ò	ny} +0xed) [0x7f7d7934976d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:455] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_7to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fe3bec3b7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7fe3bec2f400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7fe3bec3e6e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7fe3be54b5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xwƒΩ„ +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (òyƒΩ„ +0xed) [0x7fe3bd8b076d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:511] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_7to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f23e5f8f7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f23e5f83400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f23e5f926e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f23e589f5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x∑˘‰# +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®π˘‰# +0xed) [0x7f23e4c0476d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:584] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_8to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9a71f917e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f9a71f85400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f9a71f946e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f9a718a15f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x◊˘pö +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®Ÿ˘pö +0xed) [0x7f9a70c0676d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:638] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_8to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f50954157e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f5095409400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f50954186e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f5094d255f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xBîP +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®BîP +0xed) [0x7f509408a76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:694] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_8to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fecd7c6a7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7fecd7c5e400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7fecd7c6d6e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7fecd757a5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xg«÷Ï +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®i«÷Ï +0xed) [0x7fecd68df76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:762] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_9to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fa5906917e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7fa590685400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7fa5906946e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7fa58ffa15f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x◊iè• +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (òŸiè• +0xed) [0x7fa58f30676d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:824] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_9to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9a9a2857e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f9a9a279400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f9a9a2886e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f9a99b955f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x)ôö +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®)ôö +0xed) [0x7f9a98efa76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:884] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_9to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fe6f9d607e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7fe6f9d54400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7fe6f9d636e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7fe6f96705f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (x«÷¯Ê +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (ò…÷¯Ê +0xed) [0x7fe6f89d576d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:32:950] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_10to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7ffe850547e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7ffe85048400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7ffe850576e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7ffe849645f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (¯Ñ˛ +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (¯Ñ˛ +0xed) [0x7ffe83cc976d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:33:009] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_10to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f6fe083a7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7f6fe082e400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7f6fe083d6e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7f6fe014a5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xgÑﬂo +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (ËiÑﬂo +0xed) [0x7f6fdf4af76d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 07:08:33:073] [ERROR] Could not open mp_hc_recall_0.5_kfd_10/data/.train_10to10 (/home/addis-ai/opencog_ocpkg/opencog/src/opencog/comboreduct/table/table_io.cc:1026)
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fd9986fd7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::AssertionException::AssertionException(char const*, __va_list_tag*) +0x80) [0x7fd9986f1400]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::cassert(char const*, bool, char const*, ...) +0x109) [0x7fd9987006e9]
+	5: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/comboreduct/libcomboreduct.so (opencog::combo::loadTable(std::string const&, std::string const&, std::vector<std::string, std::allocator<std::string> > const&) +0x197) [0x7fd99800d5f7]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (xópóŸ +0x12df) [0x42229f]
+	7: /lib/x86_64-linux-gnu/libc.so.6 (®ôpóŸ +0xed) [0x7fd99737276d]
+	8: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:37:49:836] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_1to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9f4876f7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®πwGü +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®πwGü +0xed) [0x7f9f473e476d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:37:49:855] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_2to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f770b6507e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®…e
+w +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®…e
+w +0xed) [0x7f770a2c576d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:37:49:874] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_3to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f49e6deb7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®yﬂÂI +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®yﬂÂI +0xed) [0x7f49e5a6076d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:37:49:892] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_4to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f54b94747e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®	H∏T +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®	H∏T +0xed) [0x7f54b80e976d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:37:49:911] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_5to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f90927e17e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®Ÿ~ëê +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®Ÿ~ëê +0xed) [0x7f909145676d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:37:49:930] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_6to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fb9b98297e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®YÉ∏π +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®YÉ∏π +0xed) [0x7fb9b849e76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:37:49:949] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_7to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9881aa97e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®Y´Äò +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®Y´Äò +0xed) [0x7f988071e76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:37:49:966] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_8to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7ffca70de7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®©¶¸ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®©¶¸ +0xed) [0x7ffca5d5376d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:37:49:984] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_9to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f151da657e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ß +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ß +0xed) [0x7f151c6da76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:39:51:885] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_1to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fbc906447e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®	eèº +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®	eèº +0xed) [0x7fbc8f2b976d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:39:51:904] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_2to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fcd610307e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®…`Õ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®…`Õ +0xed) [0x7fcd5fca576d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:39:51:922] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_3to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f053e23b7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®y$= +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®y$= +0xed) [0x7f053ceb076d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:39:51:941] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_4to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fed210d17e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®Ÿ Ì +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®Ÿ Ì +0xed) [0x7fed1fd4676d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:39:51:959] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_5to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fe5b66ce7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®©mµÂ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®©mµÂ +0xed) [0x7fe5b534376d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:39:51:976] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_6to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f4ef52db7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®y.ÙN +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®y.ÙN +0xed) [0x7f4ef3f5076d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:39:51:991] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_7to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f8352bd97e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®YæQÉ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®YæQÉ +0xed) [0x7f835184e76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:39:52:010] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_8to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fed7a24f7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®π%yÌ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®π%yÌ +0xed) [0x7fed78ec476d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:39:52:029] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_9to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f5c2a63b7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®yd)\ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®yd)\ +0xed) [0x7f5c292b076d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:42:57:031] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_1to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f7f0f91d7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ôí +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ôí +0xed) [0x7f7f0e59276d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:42:57:050] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_2to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f5c35d0d7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ô—4\ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ô—4\ +0xed) [0x7f5c3498276d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:42:57:069] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_3to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7efff7bb17e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®Ÿªˆˇ~ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®Ÿªˆˇ~ +0xed) [0x7efff682676d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:42:57:088] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_4to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f799442d7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ôCìy +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ôCìy +0xed) [0x7f79930a276d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:42:57:106] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_5to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f3fbf9c47e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®	ùæ? +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®	ùæ? +0xed) [0x7f3fbe63976d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:42:57:124] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_6to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fc4938b17e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®Ÿãíƒ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®Ÿãíƒ +0xed) [0x7fc49252676d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:42:57:143] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_7to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fd3070d87e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®I” +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®I” +0xed) [0x7fd305d4d76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:42:57:159] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_8to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fbec47fc7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®âÄ√æ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®âÄ√æ +0xed) [0x7fbec347176d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 12:42:57:177] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_9to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f48745237e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®˘RsH +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®˘RsH +0xed) [0x7f487319876d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:02:54:669] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_1to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9124cca7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®iÕ#ë +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®iÕ#ë +0xed) [0x7f912393f76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:02:54:688] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_2to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f179dab47e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®	¨ú +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®	¨ú +0xed) [0x7f179c72976d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:02:54:707] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_3to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fc5356997e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®Yj4≈ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®Yj4≈ +0xed) [0x7fc53430e76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:02:54:726] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_4to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fa54b2757e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®(J• +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®(J• +0xed) [0x7fa549eea76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:02:54:745] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_5to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f28409fd7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ô†?( +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ô†?( +0xed) [0x7f283f67276d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:02:54:765] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_6to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f686fbf47e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®	¿nh +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®	¿nh +0xed) [0x7f686e86976d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:02:54:784] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_7to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fd8902997e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®Y*èÿ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®Y*èÿ +0xed) [0x7fd88ef0e76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:02:54:803] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_8to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7ff2dbcc07e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®…Ã⁄Ú +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®…Ã⁄Ú +0xed) [0x7ff2da93576d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:02:54:821] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_9to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f93d3b357e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®¥“ì +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®¥“ì +0xed) [0x7f93d27aa76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:34:26:193] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_1to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f559353d7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ôTíU +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ôTíU +0xed) [0x7f55921b276d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:34:26:212] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_2to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fbef6e667e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®)Áıæ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®)Áıæ +0xed) [0x7fbef5adb76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:34:26:231] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_3to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f727e7b07e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®…{}r +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®…{}r +0xed) [0x7f727d42576d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:34:26:249] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_4to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fc5586067e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®)aW≈ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®)aW≈ +0xed) [0x7fc55727b76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:34:26:267] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_5to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f1144dbe7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®©‹C +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®©‹C +0xed) [0x7f1143a3376d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:34:26:285] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_6to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fcc5b8c97e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®YçZÃ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®YçZÃ +0xed) [0x7fcc5a53e76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:34:26:304] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_7to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f8def8547e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®	ÜÓç +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®	ÜÓç +0xed) [0x7f8dee4c976d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:34:26:323] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_8to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f1f8087d7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ôà +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ôà +0xed) [0x7f1f7f4f276d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:34:26:341] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_9to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9a58f347e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®	ÙWö +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®	ÙWö +0xed) [0x7f9a57ba976d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:38:28:726] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_1to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fc33ad3f7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®π‘9√ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®π‘9√ +0xed) [0x7fc3399b476d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:38:28:745] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_2to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f78118377e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®9Ñx +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®9Ñx +0xed) [0x7f78104ac76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:38:28:763] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_3to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f00fb8eb7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®yè˙ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®yè˙ +0xed) [0x7f00fa56076d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:38:28:781] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_4to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fce6e86f7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®πámŒ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®πámŒ +0xed) [0x7fce6d4e476d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:38:28:800] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_5to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9e411d97e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®Y@û +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®Y@û +0xed) [0x7f9e3fe4e76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:38:28:819] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_6to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f297d6bd7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ôl|) +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ôl|) +0xed) [0x7f297c33276d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:38:28:838] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_7to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f77e52327e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®È#‰w +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®È#‰w +0xed) [0x7f77e3ea776d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:38:28:857] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_8to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f2a208967e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®)ä* +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®)ä* +0xed) [0x7f2a1f50b76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:38:28:876] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_9to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f7c4c7ef7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®πK| +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®πK| +0xed) [0x7f7c4b46476d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:39:15:505] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_1to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fbfc6d427e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®È‘≈ø +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®È‘≈ø +0xed) [0x7fbfc59b776d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:39:15:524] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_2to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f8b830a37e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®˘
+Çã +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®˘
+Çã +0xed) [0x7f8b81d1876d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:39:15:543] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_3to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f5f4bf607e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®…ˆJ_ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®…ˆJ_ +0xed) [0x7f5f4abd576d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:39:15:562] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_4to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fdc8169a7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ijÄ‹ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ijÄ‹ +0xed) [0x7fdc8030f76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:39:15:582] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_5to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7fa0ea4807e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®…HÈ† +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®…HÈ† +0xed) [0x7fa0e90f576d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:39:15:599] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_6to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f56f368d7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®ôiÚV +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®ôiÚV +0xed) [0x7f56f230276d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:39:15:617] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_7to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f9ed25d87e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®I^—û +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®I^—û +0xed) [0x7f9ed124d76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:39:15:635] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_8to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f2f362de7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®©.5/ +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®©.5/ +0xed) [0x7f2f34f5376d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
+[INFO] Using config file found at: 
+[2013-10-10 13:39:15:654] [ERROR] Error: file mp_hc_recall_0.5_kfd_10/anal/fd_9to10*_cnd_0.combo can not be found.
+	Stack Trace:
+	2: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/util/libcogutil.so (opencog::Logger::Error::operator()(char const*, ...) +0x92) [0x7f75f938a7e2]
+	3: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (get_all_combo_tree_str(opencog::moses::eval_candidate_params const&) +0x19d) [0x4240ad]
+	4: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate (®i9¯u +0x907) [0x4218c7]
+	5: /lib/x86_64-linux-gnu/libc.so.6 (®i9¯u +0xed) [0x7f75f7fff76d]
+	6: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/moses/main/eval-candidate() [0x423555]
+
