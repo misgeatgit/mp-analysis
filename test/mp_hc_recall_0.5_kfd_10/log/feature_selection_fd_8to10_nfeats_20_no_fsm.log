@@ -1,141 +1,141 @@
 [INFO] Using config file found at: 
-[2013-10-10 06:39:50:573] [INFO] feature-selection version 3.6.8
-[2013-10-10 06:39:50:573] [INFO] Command line: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/feature-selection/main/feature-selection -a inc --target-size 20 -i mp_hc_recall_0.5_kfd_10/data/44.moses.train_8to10 -o mp_hc_recall_0.5_kfd_10/data/44.moses.train_8to10_filtered_nfeats_20 -j 4 -F mp_hc_recall_0.5_kfd_10/log/feature_selection_fd_8to10_nfeats_20_no_fsm.log -l debug -u OUT
-[2013-10-10 06:39:50:573] [INFO] Read input file mp_hc_recall_0.5_kfd_10/data/44.moses.train_8to10
-[2013-10-10 06:39:50:579] [DEBUG] Compress the dataset, current size is 332
-[2013-10-10 06:39:50:579] [DEBUG] Size of the compressed dataset is 332
-[2013-10-10 06:39:50:579] [INFO] incremental_select_features, targ sz=20 thresh=0
-[2013-10-10 06:39:50:579] [DEBUG] cached_adaptive_incremental_selection(), target=20 iterms=1 num feats=120
-[2013-10-10 06:39:50:579] [INFO] Cache prr_cache_threaded
-[2013-10-10 06:39:50:579] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=1, epsi=0.001) so selection-thres=0.5
-[2013-10-10 06:39:50:579] [DEBUG] Iteration 1 feature set size=120 powerset size=120
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 relevant features=0
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 redundant features=0
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 finished with 0 features
+[2013-10-14 12:48:43:401] [INFO] feature-selection version 3.6.8
+[2013-10-14 12:48:43:402] [INFO] Command line: /home/addis-ai/opencog_ocpkg/opencog/build/opencog/learning/feature-selection/main/feature-selection -a inc --target-size 20 -i mp_hc_recall_0.5_kfd_10/data/44.moses.train_8to10 -o mp_hc_recall_0.5_kfd_10/data/44.moses.train_8to10_filtered_nfeats_20 -j 4 -F mp_hc_recall_0.5_kfd_10/log/feature_selection_fd_8to10_nfeats_20_no_fsm.log -l debug -u OUT
+[2013-10-14 12:48:43:402] [INFO] Read input file mp_hc_recall_0.5_kfd_10/data/44.moses.train_8to10
+[2013-10-14 12:48:43:410] [DEBUG] Compress the dataset, current size is 332
+[2013-10-14 12:48:43:411] [DEBUG] Size of the compressed dataset is 332
+[2013-10-14 12:48:43:411] [INFO] incremental_select_features, targ sz=20 thresh=0
+[2013-10-14 12:48:43:411] [DEBUG] cached_adaptive_incremental_selection(), target=20 iterms=1 num feats=120
+[2013-10-14 12:48:43:411] [INFO] Cache prr_cache_threaded
+[2013-10-14 12:48:43:411] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=1, epsi=0.001) so selection-thres=0.5
+[2013-10-14 12:48:43:411] [DEBUG] Iteration 1 feature set size=120 powerset size=120
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 relevant features=0
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 redundant features=0
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 finished with 0 features
 
-[2013-10-10 06:39:50:583] [DEBUG] Elapsed time 0 seconds
+[2013-10-14 12:48:43:417] [DEBUG] Elapsed time 0 seconds
 
-[2013-10-10 06:39:50:583] [DEBUG] Rate inf microseconds per feature squared
+[2013-10-14 12:48:43:417] [DEBUG] Rate inf microseconds per feature squared
 
-[2013-10-10 06:39:50:583] [INFO] Exit incremental_selection(), selected: 
-[2013-10-10 06:39:50:583] [DEBUG] Selected 0 features
-[2013-10-10 06:39:50:583] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.5, epsi=0.001) so selection-thres=0.25
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 feature set size=120 powerset size=120
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 relevant features=0
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 redundant features=0
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 finished with 0 features
+[2013-10-14 12:48:43:417] [INFO] Exit incremental_selection(), selected: 
+[2013-10-14 12:48:43:417] [DEBUG] Selected 0 features
+[2013-10-14 12:48:43:417] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.5, epsi=0.001) so selection-thres=0.25
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 feature set size=120 powerset size=120
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 relevant features=0
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 redundant features=0
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 finished with 0 features
 
-[2013-10-10 06:39:50:583] [DEBUG] Elapsed time 0 seconds
+[2013-10-14 12:48:43:417] [DEBUG] Elapsed time 0 seconds
 
-[2013-10-10 06:39:50:583] [DEBUG] Rate inf microseconds per feature squared
+[2013-10-14 12:48:43:417] [DEBUG] Rate inf microseconds per feature squared
 
-[2013-10-10 06:39:50:583] [INFO] Exit incremental_selection(), selected: 
-[2013-10-10 06:39:50:583] [DEBUG] Selected 0 features
-[2013-10-10 06:39:50:583] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.25, epsi=0.001) so selection-thres=0.125
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 feature set size=120 powerset size=120
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 relevant features=0
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 redundant features=0
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 finished with 0 features
+[2013-10-14 12:48:43:417] [INFO] Exit incremental_selection(), selected: 
+[2013-10-14 12:48:43:417] [DEBUG] Selected 0 features
+[2013-10-14 12:48:43:417] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.25, epsi=0.001) so selection-thres=0.125
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 feature set size=120 powerset size=120
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 relevant features=0
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 redundant features=0
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 finished with 0 features
 
-[2013-10-10 06:39:50:583] [DEBUG] Elapsed time 0 seconds
+[2013-10-14 12:48:43:417] [DEBUG] Elapsed time 0 seconds
 
-[2013-10-10 06:39:50:583] [DEBUG] Rate inf microseconds per feature squared
+[2013-10-14 12:48:43:417] [DEBUG] Rate inf microseconds per feature squared
 
-[2013-10-10 06:39:50:583] [INFO] Exit incremental_selection(), selected: 
-[2013-10-10 06:39:50:583] [DEBUG] Selected 0 features
-[2013-10-10 06:39:50:583] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.125, epsi=0.001) so selection-thres=0.0625
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 feature set size=120 powerset size=120
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 relevant features=0
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 redundant features=0
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 finished with 0 features
+[2013-10-14 12:48:43:417] [INFO] Exit incremental_selection(), selected: 
+[2013-10-14 12:48:43:417] [DEBUG] Selected 0 features
+[2013-10-14 12:48:43:417] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.125, epsi=0.001) so selection-thres=0.0625
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 feature set size=120 powerset size=120
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 relevant features=0
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 redundant features=0
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 finished with 0 features
 
-[2013-10-10 06:39:50:583] [DEBUG] Elapsed time 0 seconds
+[2013-10-14 12:48:43:417] [DEBUG] Elapsed time 0 seconds
 
-[2013-10-10 06:39:50:583] [DEBUG] Rate inf microseconds per feature squared
+[2013-10-14 12:48:43:417] [DEBUG] Rate inf microseconds per feature squared
 
-[2013-10-10 06:39:50:583] [INFO] Exit incremental_selection(), selected: 
-[2013-10-10 06:39:50:583] [DEBUG] Selected 0 features
-[2013-10-10 06:39:50:583] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.0625, epsi=0.001) so selection-thres=0.03125
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 feature set size=120 powerset size=120
-[2013-10-10 06:39:50:583] [DEBUG] Iteration 1 relevant features=7
-[2013-10-10 06:39:50:587] [DEBUG] Iteration 1 redundant features=1
-[2013-10-10 06:39:50:587] [DEBUG] Iteration 1 finished with 6 features
+[2013-10-14 12:48:43:417] [INFO] Exit incremental_selection(), selected: 
+[2013-10-14 12:48:43:417] [DEBUG] Selected 0 features
+[2013-10-14 12:48:43:417] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.0625, epsi=0.001) so selection-thres=0.03125
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 feature set size=120 powerset size=120
+[2013-10-14 12:48:43:417] [DEBUG] Iteration 1 relevant features=7
+[2013-10-14 12:48:43:421] [DEBUG] Iteration 1 redundant features=1
+[2013-10-14 12:48:43:421] [DEBUG] Iteration 1 finished with 6 features
 
-[2013-10-10 06:39:50:587] [DEBUG] Elapsed time 0 seconds
+[2013-10-14 12:48:43:421] [DEBUG] Elapsed time 0 seconds
 
-[2013-10-10 06:39:50:587] [DEBUG] Rate 95.777778 microseconds per feature squared
+[2013-10-14 12:48:43:421] [DEBUG] Rate 104.500000 microseconds per feature squared
 
-[2013-10-10 06:39:50:587] [INFO] Exit incremental_selection(), selected: 13 14 69 79 84 89
-[2013-10-10 06:39:50:587] [DEBUG] Selected 6 features
-[2013-10-10 06:39:50:587] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.03125, epsi=0.001) so selection-thres=0.015625
-[2013-10-10 06:39:50:587] [DEBUG] Iteration 1 feature set size=120 powerset size=120
-[2013-10-10 06:39:50:588] [DEBUG] Iteration 1 relevant features=19
-[2013-10-10 06:39:50:605] [DEBUG] Iteration 1 redundant features=2
-[2013-10-10 06:39:50:605] [DEBUG] Iteration 1 finished with 17 features
+[2013-10-14 12:48:43:421] [INFO] Exit incremental_selection(), selected: 13 14 69 79 84 89
+[2013-10-14 12:48:43:421] [DEBUG] Selected 6 features
+[2013-10-14 12:48:43:421] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.03125, epsi=0.001) so selection-thres=0.015625
+[2013-10-14 12:48:43:421] [DEBUG] Iteration 1 feature set size=120 powerset size=120
+[2013-10-14 12:48:43:423] [DEBUG] Iteration 1 relevant features=19
+[2013-10-14 12:48:43:445] [DEBUG] Iteration 1 redundant features=2
+[2013-10-14 12:48:43:445] [DEBUG] Iteration 1 finished with 17 features
 
-[2013-10-10 06:39:50:605] [DEBUG] Elapsed time 0 seconds
+[2013-10-14 12:48:43:445] [DEBUG] Elapsed time 0 seconds
 
-[2013-10-10 06:39:50:605] [DEBUG] Rate 63.958478 microseconds per feature squared
+[2013-10-14 12:48:43:445] [DEBUG] Rate 83.339100 microseconds per feature squared
 
-[2013-10-10 06:39:50:605] [INFO] Exit incremental_selection(), selected: 9 13 14 54 56 59 60 64 65 69 74 76 79 80 84 85 89
-[2013-10-10 06:39:50:605] [DEBUG] Selected 17 features
-[2013-10-10 06:39:50:605] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.015625, epsi=0.001) so selection-thres=0.0078125
-[2013-10-10 06:39:50:605] [DEBUG] Iteration 1 feature set size=120 powerset size=120
-[2013-10-10 06:39:50:608] [DEBUG] Iteration 1 relevant features=32
-[2013-10-10 06:39:50:654] [DEBUG] Iteration 1 redundant features=3
-[2013-10-10 06:39:50:654] [DEBUG] Iteration 1 finished with 29 features
+[2013-10-14 12:48:43:445] [INFO] Exit incremental_selection(), selected: 9 13 14 54 56 59 60 64 65 69 74 76 79 80 84 85 89
+[2013-10-14 12:48:43:445] [DEBUG] Selected 17 features
+[2013-10-14 12:48:43:445] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0, max=0.015625, epsi=0.001) so selection-thres=0.0078125
+[2013-10-14 12:48:43:445] [DEBUG] Iteration 1 feature set size=120 powerset size=120
+[2013-10-14 12:48:43:450] [DEBUG] Iteration 1 relevant features=32
+[2013-10-14 12:48:43:519] [DEBUG] Iteration 1 redundant features=3
+[2013-10-14 12:48:43:519] [DEBUG] Iteration 1 finished with 29 features
 
-[2013-10-10 06:39:50:654] [DEBUG] Elapsed time 0 seconds
+[2013-10-14 12:48:43:519] [DEBUG] Elapsed time 0 seconds
 
-[2013-10-10 06:39:50:654] [DEBUG] Rate 57.888228 microseconds per feature squared
+[2013-10-14 12:48:43:519] [DEBUG] Rate 88.418549 microseconds per feature squared
 
-[2013-10-10 06:39:50:654] [INFO] Exit incremental_selection(), selected: 4 5 9 13 14 35 40 42 48 51 54 56 59 60 64 65 69 71 74 76 79 80 84 85 89 95 100 108 110
-[2013-10-10 06:39:50:654] [DEBUG] Selected 29 features
-[2013-10-10 06:39:50:654] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0.0078125, max=0.015625, epsi=0.001) so selection-thres=0.0117188
-[2013-10-10 06:39:50:654] [DEBUG] Iteration 1 feature set size=120 powerset size=120
-[2013-10-10 06:39:50:657] [DEBUG] Iteration 1 relevant features=24
-[2013-10-10 06:39:50:682] [DEBUG] Iteration 1 redundant features=1
-[2013-10-10 06:39:50:682] [DEBUG] Iteration 1 finished with 23 features
+[2013-10-14 12:48:43:519] [INFO] Exit incremental_selection(), selected: 4 5 9 13 14 35 40 42 48 51 54 56 59 60 64 65 69 71 74 76 79 80 84 85 89 95 100 108 110
+[2013-10-14 12:48:43:519] [DEBUG] Selected 29 features
+[2013-10-14 12:48:43:519] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0.0078125, max=0.015625, epsi=0.001) so selection-thres=0.0117188
+[2013-10-14 12:48:43:519] [DEBUG] Iteration 1 feature set size=120 powerset size=120
+[2013-10-14 12:48:43:525] [DEBUG] Iteration 1 relevant features=24
+[2013-10-14 12:48:43:562] [DEBUG] Iteration 1 redundant features=1
+[2013-10-14 12:48:43:562] [DEBUG] Iteration 1 finished with 23 features
 
-[2013-10-10 06:39:50:682] [DEBUG] Elapsed time 0 seconds
+[2013-10-14 12:48:43:563] [DEBUG] Elapsed time 0 seconds
 
-[2013-10-10 06:39:50:682] [DEBUG] Rate 52.429112 microseconds per feature squared
+[2013-10-14 12:48:43:563] [DEBUG] Rate 81.659735 microseconds per feature squared
 
-[2013-10-10 06:39:50:682] [INFO] Exit incremental_selection(), selected: 4 9 13 14 35 40 48 51 54 56 59 60 64 65 69 74 76 79 80 84 85 89 108
-[2013-10-10 06:39:50:682] [DEBUG] Selected 23 features
-[2013-10-10 06:39:50:682] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0.0117188, max=0.015625, epsi=0.001) so selection-thres=0.0136719
-[2013-10-10 06:39:50:682] [DEBUG] Iteration 1 feature set size=120 powerset size=120
-[2013-10-10 06:39:50:685] [DEBUG] Iteration 1 relevant features=21
-[2013-10-10 06:39:50:704] [DEBUG] Iteration 1 redundant features=1
-[2013-10-10 06:39:50:704] [DEBUG] Iteration 1 finished with 20 features
+[2013-10-14 12:48:43:563] [INFO] Exit incremental_selection(), selected: 4 9 13 14 35 40 48 51 54 56 59 60 64 65 69 74 76 79 80 84 85 89 108
+[2013-10-14 12:48:43:563] [DEBUG] Selected 23 features
+[2013-10-14 12:48:43:563] [DEBUG] Call adaptive_incremental_selection(size=20, terms=1, red thresh=0.1, min=0.0117188, max=0.015625, epsi=0.001) so selection-thres=0.0136719
+[2013-10-14 12:48:43:563] [DEBUG] Iteration 1 feature set size=120 powerset size=120
+[2013-10-14 12:48:43:568] [DEBUG] Iteration 1 relevant features=21
+[2013-10-14 12:48:43:596] [DEBUG] Iteration 1 redundant features=1
+[2013-10-14 12:48:43:596] [DEBUG] Iteration 1 finished with 20 features
 
-[2013-10-10 06:39:50:704] [DEBUG] Elapsed time 0 seconds
+[2013-10-14 12:48:43:596] [DEBUG] Elapsed time 0 seconds
 
-[2013-10-10 06:39:50:704] [DEBUG] Rate 54.885000 microseconds per feature squared
+[2013-10-14 12:48:43:596] [DEBUG] Rate 82.682500 microseconds per feature squared
 
-[2013-10-10 06:39:50:704] [INFO] Exit incremental_selection(), selected: 4 9 13 14 35 48 54 56 59 60 64 65 69 74 76 79 80 84 85 89
-[2013-10-10 06:39:50:704] [DEBUG] Selected 20 features
-[2013-10-10 06:39:50:704] [INFO] Cache prr_cache_threaded hits=2603 misses=3173
-[2013-10-10 06:39:50:704] [INFO] 20 out of 120 features have been selected
-[2013-10-10 06:39:50:704] [DEBUG] Compress the dataset, current size is 332
-[2013-10-10 06:39:50:704] [DEBUG] Size of the compressed dataset is 172
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): MA5_bin5 0.0192788
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): MA10_bin5 0.0207937
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): MA20_bin4 0.0349721
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): MA20_bin5 0.0429816
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): MV20_bin1 0.0148832
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): MV50_bin4 0.0138137
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): RATIO7_bin5 0.029328
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): RATIO14_bin2 0.0190581
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): RATIO14_bin5 0.0305735
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): RATIO21_bin1 0.023129
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): RATIO21_bin5 0.0458818
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): RATIO28_bin1 0.0246326
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): RATIO28_bin5 0.0573975
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): ROC7_bin5 0.0274015
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): ROC14_bin2 0.0166349
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): ROC14_bin5 0.0353397
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): ROC21_bin1 0.0278852
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): ROC21_bin5 0.0485404
-[2013-10-10 06:39:50:705] [INFO] log_selected_features(): ROC28_bin1 0.0202464
-[2013-10-10 06:39:50:706] [INFO] log_selected_features(): ROC28_bin5 0.046496
+[2013-10-14 12:48:43:596] [INFO] Exit incremental_selection(), selected: 4 9 13 14 35 48 54 56 59 60 64 65 69 74 76 79 80 84 85 89
+[2013-10-14 12:48:43:596] [DEBUG] Selected 20 features
+[2013-10-14 12:48:43:596] [INFO] Cache prr_cache_threaded hits=2591 misses=3185
+[2013-10-14 12:48:43:597] [INFO] 20 out of 120 features have been selected
+[2013-10-14 12:48:43:597] [DEBUG] Compress the dataset, current size is 332
+[2013-10-14 12:48:43:597] [DEBUG] Size of the compressed dataset is 172
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): MA5_bin5 0.0192788
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): MA10_bin5 0.0207937
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): MA20_bin4 0.0349721
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): MA20_bin5 0.0429816
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): MV20_bin1 0.0148832
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): MV50_bin4 0.0138137
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): RATIO7_bin5 0.029328
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): RATIO14_bin2 0.0190581
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): RATIO14_bin5 0.0305735
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): RATIO21_bin1 0.023129
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): RATIO21_bin5 0.0458818
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): RATIO28_bin1 0.0246326
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): RATIO28_bin5 0.0573975
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): ROC7_bin5 0.0274015
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): ROC14_bin2 0.0166349
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): ROC14_bin5 0.0353397
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): ROC21_bin1 0.0278852
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): ROC21_bin5 0.0485404
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): ROC28_bin1 0.0202464
+[2013-10-14 12:48:43:598] [INFO] log_selected_features(): ROC28_bin5 0.046496
